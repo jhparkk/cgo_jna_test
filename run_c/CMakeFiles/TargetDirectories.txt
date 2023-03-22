@@ -1,0 +1,3 @@
+C:/Users/dbmas/workspace/c_c++/cgo_jni_test/run_c/CMakeFiles/runclib.dir
+C:/Users/dbmas/workspace/c_c++/cgo_jni_test/run_c/CMakeFiles/edit_cache.dir
+C:/Users/dbmas/workspace/c_c++/cgo_jni_test/run_c/CMakeFiles/rebuild_cache.dir

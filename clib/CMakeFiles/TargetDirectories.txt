@@ -1,0 +1,3 @@
+C:/Users/dbmas/workspace/c_c++/cgo_jni_test/clib/CMakeFiles/petracalltest.dir
+C:/Users/dbmas/workspace/c_c++/cgo_jni_test/clib/CMakeFiles/edit_cache.dir
+C:/Users/dbmas/workspace/c_c++/cgo_jni_test/clib/CMakeFiles/rebuild_cache.dir
